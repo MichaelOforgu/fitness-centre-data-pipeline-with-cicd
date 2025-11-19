@@ -62,15 +62,21 @@ This project demonstrates a production-grade, modular medallion architecture for
   - Bronze: Structured raw Delta tables
   - Silver: Cleansed, deduplicated, CDC-upserted business entities  
   - Gold: Aggregated datasets supporting analytics and reporting  
-- Modular notebook scripts for setup, ingestion, transformation, validation, and orchestration  
+- Modular notebook scripts for setup, ingestion, transformation, validation, and orchestration
+  
+</br>
+<img width="1396" height="736" alt="Screenshot 2025-11-19 at 16 34 09" src="https://github.com/user-attachments/assets/84d5ed38-6023-45e0-9d27-a97ea47121e6" />
 
 ---
 
 ## Validation and Testing
 
 - Data assertions and validation implemented in setup and batch-test notebooks  
-- End-to-end pipeline correctness ensured by automated tests integrated in CI/CD  
-- Regular integrity checks to maintain data quality across layers  
+- End-to-end pipeline correctness ensured by automated tests integrated.  
+- Regular integrity checks to maintain data quality across layers
+
+</br>
+<img width="1249" height="643" alt="Screenshot 2025-11-19 at 16 24 52" src="https://github.com/user-attachments/assets/70a6a5d3-a768-479f-b76a-d88f47abeb22" />
 
 ---
 
