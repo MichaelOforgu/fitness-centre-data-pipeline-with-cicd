@@ -74,12 +74,15 @@ This project demonstrates a production-grade, modular medallion architecture for
 
 ---
 
-## CI/CD & Deployment Instructions
+## CI/CD & Deployment Implementation
 
 - Code and notebooks version-controlled with GitHub  
 - GitHub Actions workflows for deployment automation  
 - Deployment triggered via Databricks Jobs API with environment-specific configurations  
-- Secrets managed securely with GitHub Secrets and Azure Key Vault integration  
+- Secrets managed securely with GitHub Secrets and Azure Key Vault integration
+
+</br>
+<img width="1040" height="461" alt="Screenshot 2025-11-19 at 16 21 18" src="https://github.com/user-attachments/assets/3b760844-1935-476f-8b36-616a5603f11b" />
 
 ---
 
